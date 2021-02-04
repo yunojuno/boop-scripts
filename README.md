@@ -15,7 +15,7 @@ Will convert in Boop to:
 
 ```javascript
 {
-	"foo": true,
-	"bar": null
+    "foo": true,
+    "bar": null
 }
 ```
